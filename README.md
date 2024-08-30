@@ -1,4 +1,3 @@
 "Proyecto Mica" 
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
-"Modificaci¢n en rama principal" 
-"creando un conflicto" 
+"Aï¿½adiendo contenido en la rama nueva-funcionalidad." 
+"Modificaciï¿½n en rama principal" 
